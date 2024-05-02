@@ -9,3 +9,5 @@
 
 ![Anurag'sGitHubstats](https://github-readme-stats.vercel.app/api?username=marcelopereira&show_icons=true&theme=shadow_red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolivarpr&layout=compact)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bolivarpr_/)

@@ -1,7 +1,7 @@
 ## Olá Eu sou Marcelo Pereira 😎
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistema
-- 💻 Procurando um estágio
+- 💻 Procurando estágio
   ##
 ![Marcelo Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloPereira&show_icons=true&theme=shadow_red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolivarpr&layout=compact&langs_count=16&theme=shadow_red)

@@ -18,7 +18,7 @@ Tecnologias que estou aprendendo
   <img algin="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img algin="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img algin="center" alt="Java" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img algin="center" alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img algin="center" alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div></br>
 
  ##

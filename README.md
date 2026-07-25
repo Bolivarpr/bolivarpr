@@ -4,7 +4,7 @@
 - 💻 Procurando estágio
   ##
 ![Marcelo Pereira GitHub stats] <img algin="center" alt="GitHub" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolivarpr&layout=compact&langs_count=16&theme=shadow_red)
+![Top Langs] <img algin="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolivarpr&layout=compact&langs_count=16&theme=shadow_red">
 
   ##
 Tecnologias que estou aprendendo

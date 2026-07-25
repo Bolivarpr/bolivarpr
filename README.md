@@ -4,7 +4,7 @@
 - 💻 Procurando Oportnidade como Desenvolvedor WEB ou Desenvolvedor de Software
 
 <div>
-  <a href="https://github.com/Bolivarpr?tab=repositories">
+  <a href="https://github.com/Bolivarpr?tab=repositories"></a>
   <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Marcelo_Pereira=anuraghazra&show_icons=true&theme=radical)">
     
 </div>

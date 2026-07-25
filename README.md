@@ -1,7 +1,13 @@
 ## Olá Eu sou Marcelo Pereira 😎
 
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistema
-- 💻 Procurando estágio
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistema
+- 💻 Procurando Oportnidade como Desenvolvedor WEB ou Desenvolvedor de Software
+
+<div>
+  <a href="https://github.com/Bolivarpr?tab=repositories">
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Marcelo_Pereira=anuraghazra&show_icons=true&theme=radical)">
+    
+</div>
 
   ##
 Tecnologias que estou aprendendo
@@ -22,6 +28,5 @@ Tecnologias que estou aprendendo
 
  ##
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bolivarpr_/)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelopr-/)
-
+<img algin="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bolivarpr_/">
+<img algin="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelopr-/">
